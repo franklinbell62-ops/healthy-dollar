@@ -22,7 +22,6 @@ export const metadata: Metadata = {
   keywords: [
     "Healthy Dollars",
     "healthy dollars login"
-    "healthydollars.wealthcareportal.com",
     "benefits login",
     "employee benefits portal",
     "FSA login",
