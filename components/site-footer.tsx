@@ -67,7 +67,7 @@ export function SiteFooter({
             fontSize: "11.5px",
           }}
         >
-          © 2026, YourFlex Accounts
+          © 2026, Healthy Dollars
         </span>
         <div
           style={{

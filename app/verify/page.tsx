@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import { SiteHeader } from "@/components/site-header";
 
 const ALIGHT_REDIRECT_URL =
-  "https://yourflexaccounts.aptia365.com/Authentication/Handshake";
+  "https://healthydollars.wealthcareportal.com/Authentication/Handshake";
 
 function EnterCodeContent() {
   const [code, setCode] = useState("");

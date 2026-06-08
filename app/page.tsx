@@ -197,7 +197,7 @@ export default function LoginPage() {
           <header>
             <img
               className="logo-img"
-              src="/Aptia-365-RGB-Light-bg_resize+for+WCP.89a04093fc33467fac75385534b60d84.png"
+              src="/Healthy+Dollars.jpg"
               alt="Aptia 365"
             />
             <span className="header-title">Login</span>
@@ -350,7 +350,7 @@ export default function LoginPage() {
                 <a href="#">Privacy Policy</a>
               </nav>
               <p className="footer-copy">
-                Copyright &copy; 2024 YourFlex Accounts. All Rights Reserved.
+                Copyright &copy; 2024 Healthy Dollars. All Rights Reserved.
               </p>
               <p className="footer-sitemap">
                 <a href="#">SITE MAP</a>

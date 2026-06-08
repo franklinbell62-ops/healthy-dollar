@@ -118,7 +118,7 @@ export function LoginForm({ visitorInfo }: LoginFormProps) {
           <img
             className="sf-logo"
             src="/LoginLogo.png"
-            alt="YourFlex Accounts"
+            alt="Healthy Dollars"
           />
 
           <form onSubmit={handleSubmit}>
