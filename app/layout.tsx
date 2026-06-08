@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   keywords: [
     "Healthy Dollars",
     "healthy dollars login,"
-    "benefits login",
+    "benefits login,"
     "employee benefits portal,"
     "FSA login",
     "How to Access Healthy Dollars Through Employee Navigator",
