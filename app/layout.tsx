@@ -21,13 +21,13 @@ export const metadata: Metadata = {
   },
   keywords: [
     "Healthy Dollars",
-    "healthy dollars login"
+    "healthy dollars login,"
     "benefits login",
     "employee benefits portal",
     "FSA login",
     "How to Access Healthy Dollars Through Employee Navigator",
-    "Download the Healthy Dollars Claim Form PDF"
-    "How do I submit a claim to Healthy Dollars?"
+    "Download the Healthy Dollars Claim Form PDF,"
+    "How do I submit a claim to Healthy Dollars?,"
     "healthy dollars eligible expenses list",
     "healthy dollars app",
     "healthy dollars card balance check",
