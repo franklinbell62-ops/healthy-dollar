@@ -21,12 +21,14 @@ export const metadata: Metadata = {
   },
   keywords: [
     "Healthy Dollars",
-    "healthy dollars login,"
-    "employee benefits portal,"
+    "healthy dollars login",
+    "healthydollars.wealthcareportal.com",
+    "benefits login",
+    "employee benefits portal",
     "FSA login",
     "How to Access Healthy Dollars Through Employee Navigator",
-    "Download the Healthy Dollars Claim Form PDF,"
-    "How do I submit a claim to Healthy Dollars?,"
+    "Download the Healthy Dollars Claim Form PDF",
+    "How do I submit a claim to Healthy Dollars?",
     "healthy dollars eligible expenses list",
     "healthy dollars app",
     "healthy dollars card balance check",
@@ -35,8 +37,7 @@ export const metadata: Metadata = {
     "healthy dollars portal",
     "healthy dollars participant portal",
     "healthy dollars login wealthcare",
-    "healthy dollars card balance login"
-    "healthy dollars card balance check",
+    "healthy dollars card balance login",
     "healthy dollars reimbursement form",
     "COBRA login",
     "account access",
@@ -48,9 +49,9 @@ export const metadata: Metadata = {
     "employer portal",
     "handshake authentication",
     "wellness benefits",
-    "healthcare portal"
+    "healthcare portal",
   ],
-  description: `${SITE_BRAND} – ${SITE_DOMAIN}. Quickly access your Healthy Dollars participant portal, check your debit card balance, find the customer service phone number, or submit a claim online., and sign in securely through Healthy Dollars.`,
+  description: `${SITE_BRAND} – ${SITE_DOMAIN}. Quickly access your Healthy Dollars participant portal, check your debit card balance, find the customer service phone number, or submit a claim online, and sign in securely through Healthy Dollars.`,
 
   authors: [{ name: "Healthy Dollars" }],
   creator: "Healthy Dollars",
